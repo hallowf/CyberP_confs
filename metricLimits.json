@@ -348,7 +348,7 @@
       "secFilter": "adverts",
       "resType": "Texture",
       "team": "UI",
-      "limitMB": 40
+      "limitMB": 50
     },	
     {
       "shortName": "UITex",
