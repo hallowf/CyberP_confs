@@ -3,7 +3,7 @@
 	"version": "1.146.0.0 REDlauncher",
 	"broker_enabled": false,
     "http_client": {
-      "thread_count": 5
+      "thread_count": 4
     }
   }
 }
